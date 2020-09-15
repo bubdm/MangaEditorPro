@@ -1,1 +1,3 @@
 # MangaEditorPro
+
+*En desarrollo
