@@ -1,1 +1,1 @@
-# MangaEditor
+# MangaEditorPro
