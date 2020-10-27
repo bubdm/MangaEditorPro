@@ -4,6 +4,10 @@
 
 *En desarrollo (Ingresa a discord para mas informacion)  Discord [https://discord.gg/8ScJrTN]
 
+-Requerimientos <br/>
+  Windows 10 <br/>
+  NetFramework >= 5.6.1
+
 -OCR Text detect<br/>
   Deteccion de texto automatico en imagenes(Multiples idiomas)<br/>
 -Creacion de proyectos <br/>
