@@ -2,15 +2,15 @@
 
 *En desarrollo (Ingresa a discord para mas informacion)  Discord [https://discord.gg/8ScJrTN]
 
--OCR Text detect
-  Deteccion de texto automatico en imagenes(Multiples idiomas)
--Creacion de proyectos 
-  Crear proyecto + capitulos
--Exportar  capitulo a pdf/ secuencia imagenes / video (funcion futura)
--Traductor en linea (funcion futura)/ incluye version gratis/prueba
--Limpieza
--Edicion (Opcion futura)
--Creacion de burbujas de dialogo (Opcion futura)
+-OCR Text detect<br/>
+  Deteccion de texto automatico en imagenes(Multiples idiomas)<br/>
+-Creacion de proyectos <br/>
+  Crear proyecto + capitulos<br/>
+-Exportar  capitulo a pdf/ secuencia imagenes / video (funcion futura)<br/>
+-Traductor en linea (funcion futura)/ incluye version gratis/prueba<br/>
+-Limpieza<br/>
+-Edicion (Opcion futura)<br/>
+-Creacion de burbujas de dialogo (Opcion futura)<br/>
 
 <p align="center"><img src="/screenshots/img1.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
 <p align="center"><img src="/screenshots/img2.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
