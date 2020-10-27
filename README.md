@@ -12,8 +12,9 @@
 -Edicion (Opcion futura)<br/>
 -Creacion de burbujas de dialogo (Opcion futura)<br/>
 
+
 <p align="center"><img src="/screenshots/img1.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
-<p align="center"><img src="/screenshots/img2.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
+<p align="center"><img src="/screenshots/img2.PNG" /><br/><sub><i>Image: "Image 2"</i></sub></p>
 
 
 
