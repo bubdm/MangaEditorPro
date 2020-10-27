@@ -1,6 +1,8 @@
 # MangaEditorPro
 
 *En desarrollo
+<p align="center"><img src="/screenshots/img1.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
+<p align="center"><img src="/screenshots/img2.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
 
 https://discord.gg/8ScJrTN
 
