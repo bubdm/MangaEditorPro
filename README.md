@@ -2,7 +2,10 @@
  
  *Este repositorio no incluye codigo fuente, solo aloja los ejecutables (Version Beta Pronto!! )
 
-*En desarrollo (Ingresa a discord para mas informacion)  Discord [https://discord.gg/8ScJrTN]
+*En desarrollo (Ingresa a discord para mas informacion)  
+[Discord][https://discord.gg/8ScJrTN][en]
+         [https://discord.gg/Dk7zhzFMab][es]
+
 
 -Requerimientos <br/>
   Windows 10 <br/>
