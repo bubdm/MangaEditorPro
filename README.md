@@ -23,7 +23,7 @@
 
 
 <p align="center"><img src="/screenshots/img1.PNG" /><br/><sub><i>Image: "Image 1"</i></sub></p>
-<p align="center"><img src="/screenshots/img2.PNG" /><br/><sub><i>Image: "Image 2"</i></sub></p>
+<p align="center"><img src="/screenshots/img3.PNG" /><br/><sub><i>Image: "Image 3"</i></sub></p>
 
 Esta obra está bajo
 <br/>
